@@ -1,0 +1,32 @@
+{
+    "nama": "Aisma Nurlaili",
+    "npm": "22082010083",
+    "jurusan": "Sistem Informasi",
+    "mata_kuliah": [
+      {
+        "kode": "SI101",
+        "nama": "Pemrograman Desktop",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "SI102",
+        "nama": "Metodologi Penelitian",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "SI103",
+        "nama": "Desain Manajemen Jaringan",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "SI104",
+        "nama": "Interaksi Manusia Komputer",
+        "sks": 3,
+        "nilai": "A-"
+      }
+    ]
+  }
+  
